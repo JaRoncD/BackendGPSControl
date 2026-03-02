@@ -1,1 +1,1 @@
-web: gunicorn BACKEND.wsgi
+web: gunicorn crud.wsgi
